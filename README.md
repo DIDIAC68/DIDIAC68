@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Diego Silva Araujo, tenho 18 anos e sou natural do Acre. Concluí o ensino médio no IFRS, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter. Sou apaixonado por tecnologia.
+Me chamo Diego Silva Araujo, tenho 18 anos e sou natural do Acre. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter. Sou apaixonado por tecnologia.
     </a> 
     <a href="https://github.com/DIDIAC68?tab=repositories&sort=stargazers">
         <img 
@@ -50,14 +50,6 @@ Me chamo Diego Silva Araujo, tenho 18 anos e sou natural do Acre. Concluí o ens
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -66,35 +58,11 @@ Me chamo Diego Silva Araujo, tenho 18 anos e sou natural do Acre. Concluí o ens
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
     align="left" 
@@ -111,14 +79,6 @@ Me chamo Diego Silva Araujo, tenho 18 anos e sou natural do Acre. Concluí o ens
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
