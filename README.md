@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Diego Silva
 
-**`Developer`**
+**`Full Stack Developer`**
 
-Me chamo Diego Silva Araujo, tenho 18 anos e sou natural do Acre. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter. Sou apaixonado por tecnologia.
+Me chamo Diego Silva Araujo, tenho 18 anos e sou natural do Acre.
     </a> 
     <a href="https://github.com/DIDIAC68?tab=repositories&sort=stargazers">
         <img 
