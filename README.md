@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Diego Silva
+# 👩🏻‍💻 Diego Silva Araújo
 
 **`Full Stack Developer`**
 
