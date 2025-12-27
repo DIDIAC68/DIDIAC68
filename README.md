@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Diego Silva Araújo
 
-**`Full Stack Developer`**
+**`BackEnd Developer`**
 
 Me chamo Diego Silva Araujo, tenho 18 anos e sou natural do Acre.
     </a> 
