@@ -1,89 +1,79 @@
-# 👩🏻‍💻 Diego Silva Araújo
+# 👋 Olá, eu sou Diego Silva (dididev)
 
-**`BackEnd Developer`**
-
-Me chamo Diego Silva Araujo, tenho 18 anos e sou natural do Acre.
-    </a> 
-    <a href="https://github.com/DIDIAC68?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DIDIAC68?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/DIDIAC68?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DIDIAC68?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+💻 Desenvolvedor focado em **Backend**, **Integrações de APIs** e **Automação**  
+📍 Acre, Brasil  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+🚀 Sempre aprendendo e construindo soluções reais
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+- 🔹 Desenvolvo aplicações com **PHP** e **Python**
+- 🔹 Experiência com **APIs de pagamento** (Clover, Adyen, Pagar.me, Vindi)
+- 🔹 Trabalho com **criptografia**, **tokenização** e **segurança**
+- 🔹 Automação e scraping com **cURL, Selenium e CloudScraper**
+- 🔹 Backend, Frontend básico e integrações completas
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+## 🛠️ Tecnologias & Ferramentas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DIDIAC68&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 👨‍💻 Linguagens
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIDIAC68&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### ⚙️ Backend & APIs
+- PHP (POO, cURL, APIs REST)
+- Python (Flask, FastAPI)
+- Integração com gateways de pagamento
+- Criptografia RSA / Tokenização
 
-</p>
+### 🌐 Frontend
+- HTML5
+- CSS3
+- JavaScript puro
+
+### 🧰 Ferramentas
+- Git & GitHub
+- Visual Studio Code
+- Selenium
+- CloudScraper
+- CapMonster
+- Power BI (relatórios e dashboards)
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 **Integração com APIs de Pagamento**  
+> Criptografia, tokenização de cartões e pagamentos automatizados
+
+🔹 **Automação Web & Scraping**  
+> Selenium, Cloudflare bypass e requisições avançadas
+
+🔹 **Sistemas Web**  
+> Sites responsivos, portfólios e sistemas internos
+
+*(Veja os repositórios abaixo ⬇️)*
+
+---
+
+## 📊 Estatísticas GitHub
+
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark)
+
+---
+
+## 📫 Contato
+
+- 📧 Email: **srbielutunes@gmail.com**
+- 💼 LinkedIn: *(adicione se tiver)*
+- 🌐 Portfólio: *(adicione se tiver)*
+
+---
+
+⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
