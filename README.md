@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim
 
-- 🔹 Desenvolvo aplicações com **PHP** e **Python**
+- 🔹 Desenvolvo aplicações com **PHP** e Automações Web com **Python**
 - 🔹 Experiência com **APIs de pagamento** (Clover, Adyen, Pagar.me, Vindi)
 - 🔹 Trabalho com **criptografia**, **tokenização** e **segurança**
 - 🔹 Automação e scraping com **cURL, Selenium e CloudScraper**
@@ -24,11 +24,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend
 - PHP (POO, cURL, APIs REST)
-- Python (Flask, FastAPI)
 - Integração com gateways de pagamento com Curl em PHP
-- Base64, criptografias
+- Base64
+- Criptografias
 
 ### 🌐 Frontend
 - HTML5
@@ -58,7 +58,6 @@
 ## 📫 Contato
 
 - 📧 Email: **srbielutunes@gmail.com**
-- 💼 LinkedIn: **
 
 ---
 
