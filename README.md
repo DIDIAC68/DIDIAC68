@@ -23,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
 </p>
 
 ---
@@ -37,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="36" title="Selenium"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub"/>
-  <img src="https://avatars.githubusercontent.com/u/73554733?s=200&v=4" width="36" title="CapMonster"/>
+  <img src="https://geekflare.com/wp-content/uploads/2024/11/capmonster-logo.jpg" width="36" title="CapMonster"/>
 </p>
 
 ---
@@ -54,8 +53,6 @@
 ## 📫 Contato
 
 - 📧 Email: **srbielutunes@gmail.com**
-- 💼 LinkedIn: *(adicione seu link)*
-- 🌐 Portfólio: *(adicione se tiver)*
 
 ---
 
