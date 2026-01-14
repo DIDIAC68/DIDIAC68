@@ -44,7 +44,7 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DIDIAC68&theme=flat&margin-w=10" alt="GitHub Stats" />
+  <img src="https://github.com/DIDIAC68?tab=repositories" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIDIAC68&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
