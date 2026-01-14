@@ -41,6 +41,12 @@
 
 ---
 
+### ⚙️ Backend
+- PHP (POO, cURL, APIs REST)
+- Integração com gateways de pagamento com Curl em PHP
+- Base64
+- Criptografias
+
 ## 📫 Contato
 
 - 📧 Email: **srbielutunes@gmail.com**
