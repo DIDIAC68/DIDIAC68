@@ -36,42 +36,15 @@
 - JavaScript puro
 
 <p align="left">
-  <div style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="40"/>
-    <br/>PhpStorm
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
-    <br/>IntelliJ IDEA
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-    <br/>VS Code
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
-    <br/>Selenium
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-    <br/>Git
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-    <br/>GitHub
-  </div>
-
-  <div style="display:inline-block; text-align:center; margin-right:15px;">
-    <img src="https://avatars.githubusercontent.com/u/73554733?s=200&v=4" width="40"/>
-    <br/>CapMonster
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="24"/> PhpStorm &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="24"/> IntelliJ IDEA &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24"/> VS Code &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="24"/> Selenium &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> Git &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> GitHub &nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/73554733?s=200&v=4" width="24"/> CapMonster
 </p>
-
+  
 ## 📊 Estatísticas GitHub
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DIDIAC68&show_icons=true&theme=dark)
