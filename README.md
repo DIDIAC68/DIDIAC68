@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Olá, eu sou Diego Silva Araújo</h1>
-  <p>💻 Desenvolvedor focado em Backend, Integrações de APIs e Automação 
-     📍 Acre, Brasil  
-     🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)</p>
+  <p>💻 Desenvolvedor focado em Backend, Integrações de APIs e Automação</p>
+  <p>📍 Acre, Brasil</p>  
+  <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)</p>
 </div>
 
 ---
