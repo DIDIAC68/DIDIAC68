@@ -35,18 +35,42 @@
 - CSS3
 - JavaScript puro
 
-
 <p align="left">
-  <!-- IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <div style="display:inline-block; text-align:center; margin-right:15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="40"/>
+    <br/>PhpStorm
+  </div>
 
-  <!-- Ferramentas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <div style="display:inline-block; text-align:center; margin-right:15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
+    <br/>IntelliJ IDEA
+  </div>
 
+  <div style="display:inline-block; text-align:center; margin-right:15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+    <br/>VS Code
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
+    <br/>Selenium
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+    <br/>Git
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    <br/>GitHub
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin-right:15px;">
+    <img src="https://avatars.githubusercontent.com/u/73554733?s=200&v=4" width="40"/>
+    <br/>CapMonster
+  </div>
+</p>
 
 ## 📊 Estatísticas GitHub
 
