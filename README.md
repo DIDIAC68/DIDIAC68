@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Diego Silva (dididev)
+# 👋 Olá, eu sou Diego Silva Araújo
 
 💻 Desenvolvedor focado em **Backend**, **Integrações de APIs** e **Automação**  
 📍 Acre, Brasil  
@@ -13,7 +13,7 @@
 - 🔹 Experiência com **APIs de pagamento** (Clover, Adyen, Pagar.me, Vindi)
 - 🔹 Trabalho com **criptografia**, **tokenização** e **segurança**
 - 🔹 Automação e scraping com **cURL, Selenium e CloudScraper**
-- 🔹 Backend, Frontend básico e integrações completas
+- 🔹 Backend
 
 ---
 
@@ -27,8 +27,8 @@
 ### ⚙️ Backend & APIs
 - PHP (POO, cURL, APIs REST)
 - Python (Flask, FastAPI)
-- Integração com gateways de pagamento
-- Criptografia RSA / Tokenização
+- Integração com gateways de pagamento com Curl em PHP
+- Base64, criptografias
 
 ### 🌐 Frontend
 - HTML5
@@ -38,41 +38,27 @@
 ### 🧰 Ferramentas
 - Git & GitHub
 - Visual Studio Code
+- PHPStorm
+- IntelliJ
 - Selenium
 - CloudScraper
 - CapMonster
-- Power BI (relatórios e dashboards)
 
 ---
 
-## 📌 Projetos em Destaque
-
-🔹 **Integração com APIs de Pagamento**  
-> Criptografia, tokenização de cartões e pagamentos automatizados
-
-🔹 **Automação Web & Scraping**  
-> Selenium, Cloudflare bypass e requisições avançadas
-
-🔹 **Sistemas Web**  
-> Sites responsivos, portfólios e sistemas internos
-
-*(Veja os repositórios abaixo ⬇️)*
-
----
 
 ## 📊 Estatísticas GitHub
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DIDIAC68&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIDIAC68&layout=compact&theme=dark)
 
 ---
 
 ## 📫 Contato
 
 - 📧 Email: **srbielutunes@gmail.com**
-- 💼 LinkedIn: *(adicione se tiver)*
-- 🌐 Portfólio: *(adicione se tiver)*
+- 💼 LinkedIn: **
 
 ---
 
