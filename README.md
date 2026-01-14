@@ -1,16 +1,19 @@
 <div align="center">
   <h1>👋 Olá, eu sou Diego Silva Araújo</h1>
-  <p>💻 Desenvolvedor focado em **Backend**, **Integrações de APIs** e **Automação**  
+  <p>💻 Desenvolvedor focado em Backend, Integrações de APIs e Automação 
      📍 Acre, Brasil  
-     🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**</p>
+     🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)</p>
 </div>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou **Estudante de Análise e Desenvolvimento de Sistemas (ADS)** com experiência em **suporte técnico de sistemas de saúde** e atuação prática como **Desenvolvedor Backend**, trabalhando com **PHP, automações em Python e Java**.  
-Tenho interesse por integrações de APIs, criptografia, tokenização e soluções que entreguem valor real.
+- 🔹 Desenvolvo aplicações com **PHP** e Automações Web com **Python**
+- 🔹 Experiência com **APIs de pagamento** (Clover, Adyen, Pagar.me, Vindi)
+- 🔹 Trabalho com **criptografia**, **tokenização** e **segurança**
+- 🔹 Automação e scraping com **cURL, Selenium e CloudScraper**
+- 🔹 Backend
 
 ---
 
