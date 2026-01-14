@@ -1,6 +1,8 @@
 <div align="center">
   <h1>👋 Olá, eu sou Diego Silva Araújo</h1>
-  <p>💻 Desenvolvedor Backend & Automação | 🛠️ PHP • Python • Java</p>
+  <p>💻 Desenvolvedor focado em **Backend**, **Integrações de APIs** e **Automação**  
+     📍 Acre, Brasil  
+     🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**</p>
 </div>
 
 ---
