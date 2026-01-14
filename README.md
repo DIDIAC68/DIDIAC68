@@ -13,7 +13,6 @@
 - 🔹 Experiência com **APIs de pagamento** (Clover, Adyen, Pagar.me, Vindi)
 - 🔹 Trabalho com **criptografia**, **tokenização** e **segurança**
 - 🔹 Automação e scraping com **cURL, Selenium e CloudScraper**
-- 🔹 Backend
 
 ---
 
