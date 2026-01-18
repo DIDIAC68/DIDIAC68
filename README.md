@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 
 - 🔹 Desenvolvo aplicações com **PHP** e Automações Web com **Python**
-- 🔹 Experiência com **APIs de pagamento** (Clover, Adyen, Pagar.me, Vindi)
+- 🔹 Experiência com integração de **APIs de pagamento** (Adyen, Payflow, Braintree)
 - 🔹 Trabalho com **criptografia**, **tokenização** e **segurança**
 - 🔹 Automação e scraping com **cURL, Selenium e CloudScraper**
 
