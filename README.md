@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Olá, eu sou Diego Silva</h1>
-  <p>💻 Desenvolvedor focado em Backend, Integrações de APIs e Automação</p>
+  <h1>👋 Olá, eu sou Diego Silva Araújo</h1>
+  <p>💻 Desenvolvedor com foco em Backend, Integrações de APIs e Automação</p>
   <p>📍 Acre, Brasil</p>  
   <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)</p>
 </div>
@@ -10,8 +10,7 @@
 ## 🚀 Sobre mim
 
 - 🔹 Desenvolvo aplicações com **PHP** e Automações Web com **Python**
-- 🔹 Experiência com integração de **APIs de pagamento** (Adyen, Payflow, Braintree)
-- 🔹 Trabalho com **criptografia**, **tokenização** e **segurança**
+- 🔹 Experiência com integração de **APIs de pagamento** em sites com gateways (Adyen, Payflow, Braintree)
 - 🔹 Automação e scraping com **cURL, Selenium e CloudScraper**
 
 ---
@@ -43,8 +42,8 @@
 ### ⚙️ Backend
 - PHP (POO, cURL, APIs REST)
 - Integração com gateways de pagamento com Curl em PHP
+- Json
 - Base64
-- Criptografias
 
 ## 📫 Contato
 
