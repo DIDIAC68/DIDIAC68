@@ -45,10 +45,4 @@
 - Json
 - Base64
 
-## 📫 Contato
-
-- 📧 Email: **srbielutunes@gmail.com**
-
----
-
 ⭐ *Se gostou de algum projeto, deixe uma estrela!*
